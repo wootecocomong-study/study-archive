@@ -1,25 +1,60 @@
 # study-archive
 
-스터디에서 진행한 내용을 기록합니다.
+Wotecocomong 스터디에서 진행한 내용을 기록합니다.
 
-## Database
+## 카테고리 별 발표
+<details>
+<summary><strong>Database</strong></summary>
 
-- [DB Connection은 왜 비쌀까?](./presentations/database/db-connection.md)
+- [동시성 한눈에 보기!](https://github.com/wootecocomong-study/study-archive/discussions/1)
 
-- [트랜잭션 동작 원리](./presentations/database/transaction.md)
+</details>
+<details>
+<summary><strong>Network</strong></summary>
 
-## Network
+* 발표 기록 없음
 
-- [HTTP와 HTTPS](./presentations/network/http-vs-https.md)
+</details>
+<details>
+<summary><strong>OS</strong></summary>
 
-- [TCP/IP](./presentations/network/tcp-ip.md)
+* 발표 기록 없음
 
-## Operating System
+</details>
+<details>
+<summary><strong>Infra</strong></summary>
 
-- [Process와 Thread](./presentations/operating-system/process-thread.md)
+* 발표 기록 없음
 
+</details>
+<details>
+<summary><strong>ORM</strong></summary>
+
+* 발표 기록 없음
+
+</details>
+<details>
+<summary><strong>Java</strong></summary>
+
+* 발표 기록 없음
+
+</details>
+<details>
+<summary><strong>Spring</strong></summary>
+
+* 발표 기록 없음
+
+</details>
+<details>
+<summary><strong>ETC</strong></summary>
+
+* 발표 기록 없음
+
+</details>
 
 ## 발표 기록
+
 | 날짜 | 발표자 | 카테고리 | 주제 |
 |--------|--------|--------|--------|
-| 2026-06-23 | 한수진 | ㄴㅔㅌㅡㅇㅜㅓㅋㅡ | [HTTP vs HTTPS](discussion-url) |
+| 2026-06-22 | 초록 | | |
+| 2026-06-23 | 도우너 | Database | [동시성 한눈에 보기!](https://github.com/wootecocomong-study/study-archive/discussions/1) |
