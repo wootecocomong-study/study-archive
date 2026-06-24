@@ -30,7 +30,7 @@ Wotecocomong 스터디에서 진행한 내용을 기록합니다.
 <details>
 <summary><strong>ORM</strong></summary>
 
-* 발표 기록 없음
+- [JPA 영속성 컨텍스트](https://github.com/wootecocomong-study/study-archive/discussions/2)
 
 </details>
 <details>
@@ -58,3 +58,4 @@ Wotecocomong 스터디에서 진행한 내용을 기록합니다.
 |--------|--------|--------|--------|
 | 2026-06-22 | 초록 | | |
 | 2026-06-23 | 도우너 | Database | [동시성 한눈에 보기!](https://github.com/wootecocomong-study/study-archive/discussions/1) |
+| 2026-06-24 | 이산 | ORM | [JPA 영속성 컨텍스트](https://github.com/wootecocomong-study/study-archive/discussions/2) |
