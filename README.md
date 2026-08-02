@@ -14,6 +14,8 @@ Wotecocomong 스터디에서 진행한 내용을 기록합니다.
 
 - [3-way / 4-way Handshake](https://github.com/wootecocomong-study/study-archive/discussions/4)
 - [흐름 제어 및 혼잡 제어](https://github.com/wootecocomong-study/study-archive/discussions/5)
+- [UDP](https://juicy-onyx-640.notion.site/UDP-3a104ba461868072a57cd513508de29a?source=copy_link)
+- [QUIC](https://www.canva.com/design/DAHQpr1Y8Y0/ckHjHrUucC1cbfRVQcE0lQ/edit?utm_content=DAHQpr1Y8Y0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 </details>
 <details>
@@ -68,4 +70,11 @@ Wotecocomong 스터디에서 진행한 내용을 기록합니다.
 | 2026-07-20 | 이산 | | |
 | 2026-07-21 | 초록 | | |
 | 2026-07-22 | 도우너 | | |
-| 2026-07-23 | 소낙눈 | | |
+| 2026-07-23 | 소낙눈 | Network | [UDP](https://juicy-onyx-640.notion.site/UDP-3a104ba461868072a57cd513508de29a?source=copy_link) |
+| 2026-07-28 | 도우너 | | |
+| 2026-07-29 | 소낙눈 | Network | [QUIC](https://www.canva.com/design/DAHQpr1Y8Y0/ckHjHrUucC1cbfRVQcE0lQ/edit?utm_content=DAHQpr1Y8Y0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| 2026-07-30 | 초록 | | |
+| 2026-08-03 | 소낙눈 | | |
+| 2026-08-04 | 초록 | | |
+| 2026-08-05 | 이산 | | |
+| 2026-08-06 | 도우너 | | |
