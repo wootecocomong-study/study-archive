@@ -16,6 +16,7 @@ Wotecocomong 스터디에서 진행한 내용을 기록합니다.
 - [흐름 제어 및 혼잡 제어](https://github.com/wootecocomong-study/study-archive/discussions/5)
 - [UDP](https://github.com/wootecocomong-study/study-archive/discussions/6)
 - [QUIC](https://github.com/wootecocomong-study/study-archive/discussions/7)
+- [방화벽](https://github.com/wootecocomong-study/study-archive/discussions/8)
 
 </details>
 <details>
@@ -74,7 +75,7 @@ Wotecocomong 스터디에서 진행한 내용을 기록합니다.
 | 2026-07-28 | 도우너 | | |
 | 2026-07-29 | 소낙눈 | Network | [QUIC](https://github.com/wootecocomong-study/study-archive/discussions/7) |
 | 2026-07-30 | 초록 | | |
-| 2026-08-03 | 소낙눈 | | |
+| 2026-08-03 | 소낙눈 | Network | [방화벽](https://github.com/wootecocomong-study/study-archive/discussions/8)|
 | 2026-08-04 | 초록 | | |
 | 2026-08-05 | 이산 | | |
 | 2026-08-06 | 도우너 | | |
