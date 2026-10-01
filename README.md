@@ -81,3 +81,4 @@ Wotecocomong 스터디에서 진행한 내용을 기록합니다.
 | 2026-08-05 | 이산 | Infra | [Docker 기초 개념](https://github.com/wootecocomong-study/study-archive/discussions/12) |
 | 2026-08-06 | 도우너 | | |
 | 2026-09-23 | 초도산눈 | 토론 | [로그인 상태는 서버 세션으로 관리해야 하는가, JWT 같은 토큰으로 관리해야 하는가?](https://github.com/wootecocomong-study/study-archive/discussions/13) |
+| 2026-10-01 | 초도산눈 | 토론 | [상속 vs 조합](https://github.com/wootecocomong-study/study-archive/discussions/14) | 
